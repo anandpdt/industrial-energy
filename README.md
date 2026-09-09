@@ -1,4 +1,4 @@
-# ⚡ Industrial Energy Consumption Analysis | Power BI
+#  Industrial Energy Consumption Analysis | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
@@ -12,19 +12,19 @@ This project presents an **Industrial Energy Consumption Analysis Dashboard** de
 
 The objective is to transform industrial energy consumption data into an interactive business intelligence dashboard that helps analyze:
 
-* ⚡ Energy consumption patterns
-* 🏭 Industrial sector energy usage
-* 📈 Consumption trends over time
-* 🔥 Energy source contribution
-* 🌍 Regional/industrial distribution
-* 📊 Key energy performance indicators
-* 🔎 Patterns and variations in industrial energy demand
+*  Energy consumption patterns
+*  Industrial sector energy usage
+*  Consumption trends over time
+*  Energy source contribution
+*  Regional/industrial distribution
+*  Key energy performance indicators
+*  Patterns and variations in industrial energy demand
 
 The project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, including data preparation, transformation, modeling, DAX-based calculations, and interactive visualization.
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The primary objectives of this project are:
 
@@ -38,7 +38,7 @@ The primary objectives of this project are:
 
 ---
 
-# 🗂️ Dataset
+#  Dataset
 
 The dataset used in this project contains industrial energy consumption information.
 
@@ -64,7 +64,7 @@ The dataset was prepared and transformed before being used for dashboard develop
 
 ---
 
-# 🧹 Data Preparation & Transformation
+#  Data Preparation & Transformation
 
 The raw dataset was processed using **Power Query** before building the analytical model.
 
@@ -84,7 +84,7 @@ The objective of the transformation stage was to create a clean and consistent d
 
 ---
 
-# 🧠 Data Modeling
+#  Data Modeling
 
 The cleaned dataset was loaded into **Power BI Desktop** and prepared for analytical reporting.
 
@@ -101,7 +101,7 @@ The model was designed to allow users to explore the data dynamically through Po
 
 ---
 
-# 📐 DAX & Analytical Measures
+#  DAX & Analytical Measures
 
 DAX was used to create analytical measures and KPIs required for the dashboard.
 
@@ -120,7 +120,7 @@ Using DAX measures allows the dashboard to dynamically respond to filters and us
 
 ---
 
-# 📊 Dashboard Preview
+#  Dashboard Preview
 
 ## Dashboard 1 — Industrial Energy Overview
 
@@ -156,37 +156,37 @@ The second dashboard provides a more detailed view of industrial energy consumpt
 
 ---
 
-# 🔍 Key Analytical Areas
+#  Key Analytical Areas
 
 The dashboard focuses on several important analytical questions.
 
-### ⚡ Energy Consumption
+###  Energy Consumption
 
 How much energy is being consumed across the industrial dataset?
 
-### 🏭 Industrial Analysis
+###  Industrial Analysis
 
 Which industrial categories contribute the most to overall energy consumption?
 
-### 🔥 Energy Source Analysis
+###  Energy Source Analysis
 
 How is energy consumption distributed across different energy sources?
 
-### 📈 Trend Analysis
+###  Trend Analysis
 
 How does industrial energy consumption change across the available period?
 
-### 📊 Comparative Analysis
+###  Comparative Analysis
 
 Which categories, sources, or segments show the highest and lowest consumption?
 
-### 🎯 KPI Monitoring
+###  KPI Monitoring
 
 What key metrics can be used to monitor industrial energy performance?
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool                   | Purpose                                       |
 | ---------------------- | --------------------------------------------- |
@@ -198,7 +198,7 @@ What key metrics can be used to monitor industrial energy performance?
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Dataset
@@ -227,7 +227,7 @@ Business Insights
 
 ---
 
-# 🚀 How to Use This Project
+#  How to Use This Project
 
 ## Option 1 — View Dashboard Images
 
@@ -286,7 +286,7 @@ Once opened in Power BI Desktop, you can:
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 industrial-energy/
@@ -306,29 +306,29 @@ industrial-energy/
 
 ---
 
-# 💡 Project Highlights
+#  Project Highlights
 
-### 📌 Data Analytics
+###  Data Analytics
 
 Converted raw industrial energy data into an analysis-ready dataset.
 
-### 📌 Business Intelligence
+###  Business Intelligence
 
 Developed an interactive Power BI dashboard to communicate energy-related insights.
 
-### 📌 Data Visualization
+###  Data Visualization
 
 Used appropriate charts, KPIs, and visual elements to make complex energy data easier to understand.
 
-### 📌 DAX
+###  DAX
 
 Created analytical measures to support dynamic KPI calculations and comparisons.
 
-### 📌 Power Query
+###  Power Query
 
 Performed data preparation and transformation before visualization.
 
-### 📌 Portfolio Development
+###  Portfolio Development
 
 The project demonstrates practical skills relevant to:
 
@@ -340,7 +340,7 @@ The project demonstrates practical skills relevant to:
 
 ---
 
-# 📈 Business Value
+#  Business Value
 
 Industrial energy consumption represents a significant operational and economic factor for manufacturing and process industries.
 
@@ -357,7 +357,7 @@ The dashboard provides a visual analytical layer that can help decision-makers u
 
 ---
 
-# 🎓 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -377,7 +377,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# ⚠️ Limitations
+#  Limitations
 
 * The analysis is based on the available dataset and its underlying assumptions.
 * The dashboard is intended primarily for analytical and educational/portfolio purposes.
@@ -386,7 +386,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 Potential improvements to the project include:
 
@@ -403,7 +403,7 @@ Potential improvements to the project include:
 
 ---
 
-# 📌 Project Status
+#  Project Status
 
 **Completed — Power BI Dashboard**
 
@@ -418,7 +418,7 @@ The current repository contains:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Anand Pandit**
 
@@ -430,11 +430,6 @@ Data Analytics | Power BI | SQL | DAX | Data Visualization
 
 ---
 
-## ⭐ If you find this project useful
-
-Feel free to **star ⭐ the repository** and explore the dashboard, dataset, and Power BI report.
-
----
 
 ### 📚 Repository
 
