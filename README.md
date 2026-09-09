@@ -416,21 +416,3 @@ The current repository contains:
 * ✅ DAX-based analysis
 * ✅ GitHub documentation
 
----
-
-#  Author
-
-**Anand Pandit**
-
-Data Analytics | Power BI | SQL | DAX | Data Visualization
-
-### 🔗 GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-anandpdt-black?logo=github)](https://github.com/anandpdt)
-
----
-
-
-### 📚 Repository
-
-[Industrial Energy Analysis — GitHub](https://github.com/anandpdt/industrial-energy)
